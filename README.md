@@ -1,3 +1,2 @@
 # webbutv-upg3
-
-Uppgift till Lernia
+Uppgift 3 från Lernia
